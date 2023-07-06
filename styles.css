@@ -1,0 +1,12 @@
+#session{
+    color: brown;
+    cursor: pointer;
+}
+.time{
+    color: hotpink;
+    text-shadow: 50px;
+    
+}
+#disk{
+    text-align: left;
+}
